@@ -1,4 +1,4 @@
-# Zooming and Stretching a Textured Quad inside a Rhombus.
+# Zooming and Stretching a Textured Quad inside a Rhombus
 
 This project demonstrates a custom OpenGL effect where a textured quad texture is rendered with a grayscale post-processing effect and displayed inside a rhombus that zooms in and stretches filling the screen.
 
